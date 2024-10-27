@@ -1,1 +1,1 @@
-# Student-Score-Analysis-With-Python-Project
+#Python_Student_Score Analysis
